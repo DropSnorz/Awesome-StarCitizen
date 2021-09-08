@@ -1,5 +1,13 @@
-# Awesome-StarCitizen
+<p align="center">
+<img height="150px" src="resources/img/star-citizen-logo.png">
+</p>
+<p align="center">
+<sup>
+<b>Awesome-StarCitizen</b>
+</sup>
+</p>
 
+---
 A curated list of awesome tools, guide, data, APIs and third party resources about Star Citizen.
 
 All kind of contributions are welcome ! Process to be listed:
