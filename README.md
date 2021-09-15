@@ -27,6 +27,10 @@ All kind of contributions are welcome ! Process to be listed:
 * [Star Citizen Travel Helper](https://play.google.com/store/apps/details?id=com.PalavenDev.StarCitizenHelper) - An Android app that helps you to find out location facilities (stores, ship refuel, etc ...) in the universe.
 
 
+## Ship Fitting
+
+* [DPSCalculator](https://www.erkul.games/) - A complete and up to date website that allows you to create and experiment various ship fitting.
+
 ## :books: Guides and tutorials
 
 * [Official Beginner Guide](https://support.robertsspaceindustries.com/hc/en-us/sections/360001757273-Beginner-Guides) - As a brand new citizen of the verse, basics will be essential to getting around and exploring.
