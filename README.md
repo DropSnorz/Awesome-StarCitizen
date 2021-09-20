@@ -41,9 +41,9 @@ All kind of contributions are welcome ! Process to be listed:
 
 Resources for third party development. (APIs, Docs, Tutorials, ...)
 
-```
-Empty section
-```
+### Misc
+
+* [Unp4k](https://github.com/dolkensp/unp4k) - This tool allow users to open, decrypt, and extract data from Star Citizen .p4k files.
 
 ## :heart: Community
 
