@@ -30,6 +30,7 @@ All kind of contributions are welcome ! Process to be listed:
 ## Ship Fitting
 
 * [DPSCalculator](https://www.erkul.games/) - A complete and up to date website that allows you to create and experiment various ship fitting.
+* [Hardpoint.io](https://hardpoint.io) - A custom ship/vehicle fitting and loadout tool.
 
 ## :books: Guides and tutorials
 
