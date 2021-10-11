@@ -27,10 +27,14 @@ All kind of contributions are welcome ! Process to be listed:
 * [Star Citizen Travel Helper](https://play.google.com/store/apps/details?id=com.PalavenDev.StarCitizenHelper) - An Android app that helps you to find out location facilities (stores, ship refuel, etc ...) in the universe.
 
 
-## Ship Fitting
+### Ship Fitting
 
 * [DPSCalculator](https://www.erkul.games/) - A complete and up to date website that allows you to create and experiment various ship fitting.
 * [Hardpoint.io](https://hardpoint.io) - A custom ship/vehicle fitting and loadout tool.
+
+### Database & misc. tools
+
+* [CStone: Universal Item Finder](https://finder.cornerstonebase.space/) - A complete database of all items and stats in the game.
 
 ## :books: Guides and tutorials
 
